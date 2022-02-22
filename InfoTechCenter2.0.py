@@ -5,6 +5,6 @@ import colorama
 from colorama import Fore, Back, Style
 colorama.init(strip=False, autoreset=True)
 
-print(Fore.LIGHTMAGENTA_EX + Back.BLACK + Style.BRIGHT + "Welcome to Hornets InfoTechCenter\n"); sleep(1)
+print(Fore.LIGHTMAGENTA_EX + "Welcome to Hornets InfoTechCenter\n"); sleep(1)
 
-print(Fore.LIGHTCYAN_EX + Back.WHITE + Style.DIM + "Hornet's Operating System Booting Up")
+print(Fore.LIGHTCYAN_EX + "Hornet's Operating System Booting Up")
